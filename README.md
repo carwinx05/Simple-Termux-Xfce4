@@ -2,12 +2,19 @@
 
 ​This repository offers a straightforward method for installing and utilizing a lightweight desktop on your smartphone or tablet.
 
+## Prerequisites
+Install a stable Termux release from [here](https://github.com/termux/termux-app/releases)
+
+Install a nightly build of Termux-X11 from [here](https://github.com/termux/termux-x11/releases/tag/nightly)
+
+A fresh Termux Installation is recommended.
+
 ## Installation
 
 To install, execute the following command in Termux:
 
 ```bash
-curl -sL https://github.com/carwinx05/Simple-Termux-Xfce4/releases/download/script/setup-desktop.sh -o install.sh && bash install.sh
+curl -sL https://github.com/carwinx05/Simple-Termux-Xfce4/releases/download/script/setup-desktop.sh -o setup-desktop.sh && bash setup-desktop.sh
 ```
 
 ## Key Features
