@@ -22,12 +22,11 @@ curl -sL https://github.com/carwinx05/Simple-Termux-Xfce4/releases/download/scri
 
 After running the script, open and close Termux. (first time only)
 
-Now you can start the desktop by running the command below in Termux:
+Now you always can start the desktop by running the command below in Termux:
 
 ```bash
 startdesktop
 ```
-
 Open the Termux X11 and Enjoy!
 
 ## Key Features
