@@ -26,7 +26,7 @@ Now you can start the desktop by running the command below in Termux:
 startdesktop
 ```
 
-Enjoy!
+Open the Termux X11 and Enjoy!
 
 ## Key Features
 - **User-Friendly Setup**: Just run a single command and everything configures automatically, no manual configuration required.
