@@ -16,6 +16,17 @@ To install, execute the following command in Termux:
 ```bash
 curl -sL https://github.com/carwinx05/Simple-Termux-Xfce4/releases/download/script/setup-desktop.sh -o setup-desktop.sh && bash setup-desktop.sh
 ```
+## Usage
+
+After running the script, open and close Termux. (first time only)
+
+Now you can start the desktop by running the command below in Termux:
+
+```bash
+startdesktop
+```
+
+Enjoy!
 
 ## Key Features
 - **User-Friendly Setup**: Just run a single command and everything configures automatically, no manual configuration required.
