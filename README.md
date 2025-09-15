@@ -7,9 +7,9 @@ Install a stable Termux release from [here](https://github.com/termux/termux-app
 
 Install a nightly build of Termux-X11 from [here](https://github.com/termux/termux-x11/releases/tag/nightly)
 
-Configure Termux X11 as you prefer.
-
 A fresh Termux Installation is recommended.
+
+Configure Termux X11 as you prefer.
 
 ## Installation
 
